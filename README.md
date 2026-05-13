@@ -4,17 +4,11 @@
 
 </a>
 
-<div>
-  <p>
+Estudante de Análise e Desenvolvimento de Sistemas (3º semestre)
 
-    Estudante de Análise e Desenvolvimento de Sistemas (3º semestre)
+Iniciei minha jornada na tecnologia criando e personalizando um site próprio, o que despertou meu interesse por desenvolvimento web.
 
-    Iniciei minha jornada na tecnologia criando e personalizando um site próprio, o que despertou meu interesse por desenvolvimento web.
-
-    Hoje, estou focada em evoluir como desenvolvedora Full Stack, construindo aplicações e aprofundando meus conhecimentos em JavaScript e Python.
-
-  </p>
-</div>
+Hoje, estou focada em evoluir como desenvolvedora **Full Stack**, construindo aplicações e aprofundando meus conhecimentos em **Python** e **JavaScript**.
 
 ### Tecnologias
 <div>
