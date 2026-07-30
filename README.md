@@ -6,9 +6,7 @@
 
 Estudante do 4° semestre de Análise e Desenvolvimento de Sistemas 
 
-Iniciei minha jornada na tecnologia em 2022 ao criando e personalizando um site próprio, o que despertou meu interesse por desenvolvimento.
-
-Estou focada em evoluir como desenvolvedora **Full Stack**, construindo aplicações e aprofundando meus conhecimentos em **Python**, **JavaScript**.
+Minha jornada na tecnologia começou em 2022, quando criei e personalizei um site próprio. Essa experiência despertou meu interesse pelo desenvolvimento de software.
 
 ### Hard Skills
 <div>
